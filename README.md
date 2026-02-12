@@ -9,7 +9,7 @@ To identify natural groupings of universities for strategic analysis and decisio
 ## Techniques Used
 - Data preprocessing and standardization
 - Hierarchical Agglomerative Clustering
-- Model persistence using Pickle
+- Dynamic model training at runtime
 - Interactive Streamlit application
 
 ## Tech Stack
